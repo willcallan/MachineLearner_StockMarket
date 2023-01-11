@@ -1,0 +1,16 @@
+--Part 3.3.4--
+Impact 0.0:
+  Cum. Ret.: 1.039139
+  Std. Dev.: 0.010568
+       Mean: 0.001468
+     Trades: 72
+Impact 0.0075:
+  Cum. Ret.: 0.513917
+  Std. Dev.: 0.012040
+       Mean: 0.000894
+     Trades: 47
+Impact 0.015:
+  Cum. Ret.: -0.042200
+  Std. Dev.: 0.016099
+       Mean: 0.000044
+     Trades: 72

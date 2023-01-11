@@ -1,0 +1,9 @@
+--Part 3.3.1--
+Benchmark:
+  Cum. Ret.: 0.012325
+  Std. Dev.: 0.017024
+       Mean: 0.000168
+MS:
+  Cum. Ret.: 0.411765
+  Std. Dev.: 0.013427
+       Mean: 0.000773
